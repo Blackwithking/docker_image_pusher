@@ -1,2 +1,3 @@
 dreamacro/clash:v1.18.0
 jxxghp/moviepilot-v2
+laoyutang/clash-and-dashboard:latest
