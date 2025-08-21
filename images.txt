@@ -1,2 +1,2 @@
-
+itzg/mc-backup:stable
 linuxserver/syncthing:2.0.2
