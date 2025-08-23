@@ -1,2 +1,5 @@
 itzg/mc-backup:stable
 linuxserver/syncthing:2.0.2
+itzg/minecraft-server:java21
+itzg/minecraft-server:java17
+itzg/minecraft-server:java8
