@@ -3,5 +3,5 @@ linuxserver/syncthing:2.0.2
 itzg/minecraft-server:java21
 itzg/minecraft-server:java17
 itzg/minecraft-server:java8
-vllm/vllm-openai:v0.6.1
-ghcr.io/ggerganov/llama.cpp:b3553-server-cuda
+vllm/vllm-openai:lasted
+ghcr.io/ggerganov/llama.cpp:lasted
