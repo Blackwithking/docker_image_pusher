@@ -4,4 +4,4 @@ itzg/minecraft-server:java21
 itzg/minecraft-server:java17
 itzg/minecraft-server:java8
 vllm/vllm-openai:latest
-ghcr.io/ggerganov/llama.cpp:server-cuda-b4719
+snowgoons/llamacpp:llamacpp-b9190-cuda89
